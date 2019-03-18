@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "timer.h": "c",
+        "led.h": "c",
+        "uart.h": "c",
+        "dht22.h": "c",
+        "sx1278.h": "c"
+    }
+}
